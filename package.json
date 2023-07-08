@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ustasnov/test-ci_1.git"
+    "url": "git+https://github.com/ustasnov/advanced_1.git"
   },
   "author": "ustasnov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ustasnov/test-ci_1/issues"
+    "url": "https://github.com/ustasnov/advanced_1/issues"
   },
-  "homepage": "https://github.com/ustasnov/test-ci_1#readme",
+  "homepage": "https://github.com/ustasnov/advanced_1#readme",
   "devDependencies": {
     "@babel/cli": "^7.22.5",
     "@babel/core": "^7.22.5",
